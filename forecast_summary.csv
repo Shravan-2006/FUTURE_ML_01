@@ -1,0 +1,10 @@
+Metric,Value
+Selected Model,Linear Regression
+Forecast Horizon,12 months
+Historical Average Monthly Sales,"$47,858.35"
+Forecast Average Monthly Sales,"$68,245.29"
+Previous 12-Month Sales,"$733,215.26"
+Forecast Next 12-Month Sales,"$818,943.44"
+Expected YoY Change,11.69%
+Highest Forecast Month,November 2018
+Lowest Forecast Month,February 2018
